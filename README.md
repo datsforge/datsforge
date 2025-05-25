@@ -1,5 +1,5 @@
 # 👋 Hi there, It's **dat**  
-### _Welcome to datsforge — not just built, forged._
+### _Welcome to datsforge!_
 
 ---
 
@@ -24,7 +24,7 @@ Whether I’m crafting a pixelated world or solving a nasty bug, it’s always w
 
 ## 💡 Philosophy
 
-> _Not just built, forged._  
+> _Not just built, forged!_  
 > Code isn’t a race — it’s craft. Every project is shaped with care, like a blade meant to last. I don’t push pixels or features unless they serve a purpose. No bloat. No noise. Just clarity, function, and edge.
 
 ## 🎲 Fun Fact
