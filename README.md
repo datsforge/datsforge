@@ -1,5 +1,5 @@
-# 👋 Hi, I'm **dat**  
-### _Welcome to datsforge — not built, forged._
+# 👋 Hi there, It's **dat**  
+### _Welcome to datsforge — not just built, forged._
 
 ---
 
