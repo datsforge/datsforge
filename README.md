@@ -36,6 +36,6 @@ When I'm not coding or drawing sprites, I'm probably sketching up strange mechan
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-datsforge-181717?style=flat&logo=github)](https://github.com/datsforge)  
-[![Email](https://img.shields.io/badge/Email-contact@datsforge.com-FFBF00?style=flat&logo=gmail)](mailto:contact@datsforge.com)
+[![Email](https://img.shields.io/badge/Email-contact@datsforge.com-FFBF00?style=flat&logo=gmail)](mailto:contact@datsforge.com)  
 [![Website](https://img.shields.io/badge/Website-datsforge.com-D14836?style=flat&logo=google-chrome)](https://datsforge.com)
 
